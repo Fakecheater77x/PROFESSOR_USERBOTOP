@@ -1,14 +1,14 @@
 {
-  "name": "SHUKLAUSERBOT",
-  "description": "SHUKLAUSERBOT is an advanced & powerful multi-featured Telegram userbot.",
+  "name": "PROFESSORUSERBOT",
+  "description": "PROFESSOR is an advanced & powerful multi-featured Telegram userbot.",
   "logo": "https://telegra.ph/file/7a2e0a67e160deb60e48b.jpg",
   "keywords": [
-    "SHUKLAUSERBOT",
+    "PROFESSORUSERBOT",
     "telegram-userbot",
     "telegram-music-bot",
     "telegram-video-bot"
   ],
-  "repository": "https://github.com/itzshukla/STRANGER-OPUSERBOT2.0",
+  "repository": "https://github.com/Fakecheater77x/PROFESSOR_USERBOTOP",
   "stack": "heroku-22",
   "env": {
     "API_ID": {
