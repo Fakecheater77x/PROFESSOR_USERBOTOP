@@ -1,6 +1,6 @@
-# Powered By // @ITSZSHUKLA //
+# Powered By // @PROFESSOR_77X //
 
-__NAME__ = "Sʜᴜᴋʟᴀ"
+__NAME__ = "PROFESSOR"
 __MENU__ = """
- **@ITSZSHUKLA**
+ **@PROFESSOR_77X**
 """
