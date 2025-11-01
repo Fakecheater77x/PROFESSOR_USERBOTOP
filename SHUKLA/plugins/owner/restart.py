@@ -10,8 +10,8 @@ from ... import *
 async def restart(client: Client, message: Message):
     reply = await message.reply_text("**Restarting...**")
     await message.delete()
-    await reply.edit_text("Successfully Restarted ShuklaBot...\n\n💞 Wait 1-2 minutes\nLoad plugins...</b>")
-    os.system(f"kill -9 {os.getpid()} && python3 -m SHUKLA")
+    await reply.edit_text("Successfully Restarted PʀᴏғᴇssᴏʀBot...\n\n💞 Wait 1-2 minutes\nLoad plugins...</b>")
+    os.system(f"kill -9 {os.getpid()} && python3 -m PROFESSOR")
   
 
 __NAME__ = "Rᴇsᴛᴀʀᴛ"
